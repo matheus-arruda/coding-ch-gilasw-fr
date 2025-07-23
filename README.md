@@ -53,26 +53,3 @@ yarn start
 ```
 
 Open your browser at http://localhost:3000
-
-
-## Testing
-This project includes testing setup with:
-
-React Testing Library
-
-- Jest DOM
-
-To run tests:
-
-```bash
-npm test
-# or
-yarn test
-```
-
-### Scripts
-npm start	Starts development server
-npm run build	Builds for production
-npm test	Runs unit tests
-npm run eject	Ejects CRA config (use with care)
-
